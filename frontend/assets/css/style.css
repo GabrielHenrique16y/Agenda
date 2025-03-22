@@ -1,0 +1,21 @@
+.body-login{
+    overflow: hidden;
+}
+
+.login-row{
+    display: grid;
+}
+
+.form {
+    opacity: 0;
+}
+
+.form-active{
+    opacity: 100%;
+}
+
+.form-active.register-form{
+    opacity: 100%;
+    top: -355px;
+}
+
